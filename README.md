@@ -12,5 +12,8 @@ How to run:
 2. Run: `npm run dev`
 
 ### Tools
--React
+- React
 - Python
+- Pandas
+- D3
+- Vite
