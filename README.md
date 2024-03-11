@@ -17,3 +17,4 @@ How to run:
 - Pandas
 - D3
 - Vite
+- Netlify
